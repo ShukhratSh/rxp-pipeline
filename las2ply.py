@@ -1,3 +1,5 @@
+# Derived from https://github.com/ShukhratSh/rxp-pipeline/blob/main/tile_index.py
+
 #!/usr/bin/env python
 from datetime import datetime
 start = datetime.now()
